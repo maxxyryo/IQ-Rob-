@@ -1,0 +1,10 @@
+{
+    "user_email": "kinho_sjdr@hotmail.com",
+    "password" : "senha2012",
+    "change_balance" : "PRACTICE",
+    "max_reconnetion" : 5,
+    "par_change" : "USDCHF",
+    "type_par" : "live-deal-digital-option",
+    "timeframe" : "PT1M",
+    "min_amount_enrolled" : 100
+}
